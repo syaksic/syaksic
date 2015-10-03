@@ -12,19 +12,19 @@ P_b: Numero Primo perteneciente al conjunto \math{P}
 P_c: Numero Primo perteneciente al conjunto \math{P} 
 N_i: Numero Entero perteneciente al conjunto \math{N} 
 
-### Conjetura fuerte de Goldbach
+### Regla 1: Conjetura fuerte de Goldbach
 
 Todo Numero Par mayor a 2 puede ser expresado como la suma de 2 Numeros Primos.
 
 2N_i=P_a + P_b
 
-### Conjetura debil de Goldbach
+### Regla 2: Conjetura debil de Goldbach
 
 Todo Numero Impar mayor a 5 puede ser expresado como la suma de 3 Numeros Primos.
 
 2N_i+1=P_a + P_b + P_c
 
-### Conjetura simple de Yaksic
+### Regla 3: Conjetura simple de Yaksic
 
 Todo Numero Primo mayor a 5 puede ser expresado como la multiplicacion de 2 Numeros Primos y la adicion de un Tercer Numero Primo.
 
