@@ -22,8 +22,11 @@ Main Folder
 -----------
 
 [syaksic][syaksic]
+[Numeros Primos][primes]
 
-[syaksic]: https://github.com/Tel2k15/Members/tree/master/syaksic
+[syaksic]: https://github.com/syaksic/syaksic
+[primes]: https://github.com/syaksic/syaksic/primes
+
 
 Idiomas
 -------
