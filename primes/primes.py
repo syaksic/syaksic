@@ -4,6 +4,8 @@ N=data['N']
 P=data['P']
 
 def isPrime(val):
+	if val in P:
+		return True
 	for p in P:
 		if val % p==0:
 			return False
@@ -20,9 +22,22 @@ def YaksicPrimes(val):
 				aux=aux/Pb
 				if aux < 2:
 					break
-				print aux
 				if isPrime(aux):
 					result.append(str(Pb)+'*'+str(aux)+'+'+str(Pc))
+	if result==[]:
+		print str(val)+'''
+		
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		
+		'''+str(val)
 	return result
 
 
