@@ -11,6 +11,29 @@ def isPrime(val):
 			return False
 	return True
 
+def GoldbachPrimes(val):
+	result=[]
+	for Pb in P:
+		aux=val-Pb
+		if isPrime(aux):
+			result.append(str(Pb)+'+'+str(aux))
+				
+	if result==[]:
+		print str(val)+'''
+		
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		ERROR
+		
+		'''+str(val)
+	return result
+
 def YaksicPrimes(val):
 	result=[]
 	for Pc in P:
