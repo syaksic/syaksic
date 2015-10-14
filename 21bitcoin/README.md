@@ -6,8 +6,11 @@ Tras leer la noticia de [21 Inc lanza portal educativo para desarrolladores de B
 
 Este resumen se basa en el [tutorial][tuto21btc] y [faq][faq21btc] de 21 bitcoin.
 
+### Tutorial 0
 
+[Creating a basic Bitcoin development environment][tuto0]
 
+[tuto0]:https://21.co/learn/setup-a-bitcoin-development-environment/#creating-a-basic-bitcoin-development-environment
 [faq21btc]:https://21.co/learn/faq/#what-is-the-21-bitcoin-chip  
 [tuto21btc]:https://21.co/learn/introduction-to-bitcoin/#introduction-to-bitcoin
 [Alberto.el.cerdo]:https://www.facebook.com/Alberto.el.cerdo/
