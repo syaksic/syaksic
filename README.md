@@ -25,7 +25,7 @@ Main Folder
 - [Numeros Primos][primes]
 - [Bitcoin][21btc]
 
-[21btc]: https://github.com/syaksic/21bitcoin
+[21btc]: https://github.com/syaksic/syaksic/tree/master/21bitcoin
 [syaksic]: https://github.com/syaksic/syaksic
 [primes]: https://github.com/syaksic/syaksic/primes
 
