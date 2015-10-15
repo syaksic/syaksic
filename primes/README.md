@@ -23,7 +23,6 @@ Todo Numero Primo mayor a 5 puede ser expresado como la multiplicacion de 2 Nume
 <!---(P_i=P_a \cdot P_b + P_c)-->
 ![Regla3](./img/Screenshot from 2015-10-03 13:07:01.png)
 
-$$
 7=3+2*2
 11=2+3*3
 13=3+2*5
@@ -321,7 +320,7 @@ $$
 1973=7+2*983
 1979=2+3*659
 1987=2+5*397
-$$
+
 
 conjunto usado
 
