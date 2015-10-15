@@ -1,6 +1,6 @@
 import primes as prim
 
-#print prim.generate(10)
+print prim.generate(10)
 
 limit=100
 count=0
