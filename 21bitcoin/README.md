@@ -11,6 +11,7 @@ Este resumen se basa en el [tutorial][tuto21btc] y [faq][faq21btc] de 21 bitcoin
 En esta seccion nos indican los comandos para dejar instalado y corriendo el [demonio][demonio] de bitcoin.
 
 Ingresando los siguientes comandos, tendremos instalado el Demonio Bitcoin.
+
 [InstalarBitcoinDaemon][InstalarBitcoinDaemon]
 
 [InstalarBitcoinDaemon]: https://github.com/syaksic/syaksic/blob/master/21bitcoin/IntalarBitcoinDaemon.md
@@ -18,7 +19,13 @@ Ingresando los siguientes comandos, tendremos instalado el Demonio Bitcoin.
 
 ### Tutorial 1 [Introduction to Bitcoin][tuto1]
 
+En este tutorial se utilizan los siguientes conceptos:
 
+- [Hashing][Hashing] 
+- [SHA256][SHA256]
+- [Digital signatures][Digital signatures]
+- [Proof of work][Proof of work]
+- [Hashcash][Hashcash]
 
 ### Tutorial 2 [Bitcoin Mining][tuto2]
 
@@ -26,6 +33,11 @@ Ingresando los siguientes comandos, tendremos instalado el Demonio Bitcoin.
 
 [The Blockchain][tuto3]
 
+[Hashcash]:https://en.wikipedia.org/wiki/Hashcash
+[SHA256]:https://es.wikipedia.org/wiki/SHA-2
+[Proof of work]:https://es.wikipedia.org/wiki/Prueba_de_trabajo
+[Digital signatures]:https://es.wikipedia.org/wiki/Firma_digital
+[Hashing]:https://es.wikipedia.org/wiki/Hashing
 [demonio]:https://es.wikipedia.org/wiki/Demonio_(inform%C3%A1tica)
 [tuto3]:https://21.co/learn/the-blockchain/
 [tuto2]:https://21.co/learn/bitcoin-mining/
