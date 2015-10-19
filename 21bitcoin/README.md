@@ -10,6 +10,10 @@ Este resumen se basa en el [tutorial][tuto21btc] y [faq][faq21btc] de 21 bitcoin
 
 [Creating a basic Bitcoin development environment][tuto0]
 
+En esta seccion nos indican los comandos para dejar instalado y corriendo el [demonio][demonio] de bitcoin.
+
+
+
 ### Tutorial 1
 
 [Introduction to Bitcoin][tuto1]
@@ -22,6 +26,7 @@ Este resumen se basa en el [tutorial][tuto21btc] y [faq][faq21btc] de 21 bitcoin
 
 [The Blockchain][tuto3]
 
+[demonio]:https://es.wikipedia.org/wiki/Demonio_(inform%C3%A1tica)
 [tuto3]:https://21.co/learn/the-blockchain/
 [tuto2]:https://21.co/learn/bitcoin-mining/
 [tuto1]:https://21.co/learn/introduction-to-bitcoin/#introduction-to-bitcoin
