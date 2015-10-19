@@ -13,7 +13,7 @@ En esta seccion nos indican los comandos para dejar instalado y corriendo el [de
 Ingresando los siguientes comandos, tendremos instalado el Demonio Bitcoin.
 [InstalarBitcoinDaemon][InstalarBitcoinDaemon]
 
-[InstalarBitcoinDaemon]: https://github.com/syaksic/syaksic/21bitcoin/InstalarBitcoinDaemon.md
+[InstalarBitcoinDaemon]: https://github.com/syaksic/syaksic/blob/master/21bitcoin/IntalarBitcoinDaemon.md
 
 
 ### Tutorial 1 [Introduction to Bitcoin][tuto1]
