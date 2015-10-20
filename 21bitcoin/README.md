@@ -2,6 +2,9 @@
 
 Tras leer la noticia de [21 Inc lanza portal educativo para desarrolladores de Bitcoin][criptonoticias], con [Francisco][Alberto.el.cerdo] hemos decidido resumir el [tutorial][tuto21btc] presentado por 21 Inc para que alumnos de la USM se motiven en utilizar este enredado sistema monetario.
 
+ADVERTENCIA!!!
+Agrego este [tutorial][tutoelbitcoin] que explica que minar BTC de forma independiente no es reentable y es mas conveniente utilizar pools de mineria.
+
 ## Resumen 21 Bitcoin
 
 Este resumen se basa en el [tutorial][tuto21btc] y [faq][faq21btc] de 21 bitcoin.
@@ -33,6 +36,7 @@ En este tutorial se utilizan los siguientes conceptos:
 
 [The Blockchain][tuto3]
 
+[tutoelbitcoin]:http://elbitcoin.org/tag/tutorial-de-mineria/
 [Hashcash]:https://en.wikipedia.org/wiki/Hashcash
 [SHA256]:https://es.wikipedia.org/wiki/SHA-2
 [Proof of work]:https://es.wikipedia.org/wiki/Prueba_de_trabajo
