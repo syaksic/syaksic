@@ -1,9 +1,21 @@
 # Bitcoins
 
+
+### 21 Inc
+
 Tras leer la noticia de [21 Inc lanza portal educativo para desarrolladores de Bitcoin][criptonoticias], con [Francisco][Alberto.el.cerdo] hemos decidido resumir el [tutorial][tuto21btc] presentado por 21 Inc para que alumnos de la USM se motiven en utilizar este enredado sistema monetario.
 
-ADVERTENCIA!!!
+### ADVERTENCIA!!!
+
 Agrego este [tutorial][tutoelbitcoin] que explica que minar BTC de forma independiente no es reentable y es mas conveniente utilizar pools de mineria.
+
+### DESARROLLADORES Bitcoin
+
+Info para [desarrolladores][desarrolladoresbtc]
+
+#### Desarrollo en python
+
+[desarrollo en python][desarrolladoresbtcpython]
 
 ## Resumen 21 Bitcoin
 
@@ -11,7 +23,7 @@ Este resumen se basa en el [tutorial][tuto21btc] y [faq][faq21btc] de 21 bitcoin
 
 ### Tutorial 0 [Creating a basic Bitcoin development environment][tuto0]
 
-En esta seccion nos indican los comandos para dejar instalado y corriendo el [demonio][demonio] de bitcoin.
+En esta seccion nos indican los comandos para dejar instalado y corriendo el [demonoi][demonio] de bitcoin.
 
 Ingresando los siguientes comandos, tendremos instalado el Demonio Bitcoin.
 
@@ -36,6 +48,8 @@ En este tutorial se utilizan los siguientes conceptos:
 
 [The Blockchain][tuto3]
 
+[https]:desarrolladoresbtcpython://github.com/petertodd/python-bitcoinlib
+[desarrolladoresbtc]:https://bitcoin.org/es/desarrollo
 [tutoelbitcoin]:http://elbitcoin.org/tag/tutorial-de-mineria/
 [Hashcash]:https://en.wikipedia.org/wiki/Hashcash
 [SHA256]:https://es.wikipedia.org/wiki/SHA-2
